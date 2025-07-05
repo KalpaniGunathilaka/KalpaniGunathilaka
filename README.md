@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm kalpani 🤩🤩</h1>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
 <h3 align="center">A passionate about Programming and Web Development 😎👩‍💻</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kalpani1205&label=Profile%20views&color=0e75b6&style=flat" alt="kalpani1205" /> </p>
