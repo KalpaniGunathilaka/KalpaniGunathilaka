@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm kalpani 🤩🤩</h1>
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
 
 <h3 align="center">A passionate about Programming and Web Development 😎👩‍💻</h3>
 
