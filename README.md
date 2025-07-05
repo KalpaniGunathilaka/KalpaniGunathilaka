@@ -28,8 +28,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpaniGunathilaka&show_icons=true&locale=en" alt="kalpaniGunathilaka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpaniGunathilaka&" alt="kalpani1205" /></p>
-<p align="center">
-  <img src="https://github.com/kalpaniGunathilaka/kalpaniGunathilaka/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpaniGunathilaka&" alt="kalpaniGunathilaka" /></p>
+## Have a Smiley Day...😃 :<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+-----
 
